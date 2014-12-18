@@ -6,3 +6,4 @@ This IPython notebook includes an implementation of this algorithm.
 
 It's fun and perfect for hacking around.
 
+Reference : [Learning From Data](https://work.caltech.edu/telecourse.html)
